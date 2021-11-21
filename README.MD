@@ -7,7 +7,7 @@
 ```gh repo clone duqaqon/minecraft-ports```
 
 #### Using Browser
-Click [Here](github.com/duqaqon/minecraft-ports/archive/refs/heads/main.zip) to download the file.
+Click [Here](https://codeload.github.com/duqaqon/minecraft-ports/zip/refs/heads/main) to download the file.
 
 ### Startup
 Press on `minecraft_ports.ps1` and if needed press `A`. Then your done.
